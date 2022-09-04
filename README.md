@@ -36,6 +36,4 @@ You can use the app using the link: [palette-generator.smauj.me](https://palette
 You can support also the project by [buy me a coffe](https://www.buymeacoffee.com/mahmoudfettal), that would help with the costs of hosting and keep me motivated to add new features in the future. 
 
 # Lisence:
-You can clone the repos easily but you will have to create your own APIs in order for the app to work.
-
-Contact me if you need help. 
+You can clone the repos freely and modify code, also feel free to contact me if you need help. 
