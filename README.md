@@ -1,13 +1,13 @@
 # Palette generator 🎨
 
 <p align="center">
-   <a href="https://github.com/MahmoudFettal/simple-project/issues">
+   <a href="https://github.com/MahmoudFettal/palette-generator/issues">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues/MahmoudFettal/palette-generator?style=flat&label=Issues"/>
    </a> 
-   <a href="https://github.com/MahmoudFettal/simple-projecth/network/members">
+   <a href="https://github.com/MahmoudFettal/palette-generator/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/MahmoudFettal/palette-generator"/>
    </a> 
-   <a href="https://github.com/MahmoudFettal/simple-project/stargazers">
+   <a href="https://github.com/MahmoudFettal/palette-generator/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/MahmoudFettal/palette-generator"/>
    </a>
 <p>
