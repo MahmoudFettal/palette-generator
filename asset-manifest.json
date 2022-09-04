@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.be1f76f4.css",
-    "main.js": "/react-gh-pages/static/js/main.c47507b3.js",
-    "static/js/787.4f334ba4.chunk.js": "/react-gh-pages/static/js/787.4f334ba4.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.be1f76f4.css.map": "/react-gh-pages/static/css/main.be1f76f4.css.map",
-    "main.c47507b3.js.map": "/react-gh-pages/static/js/main.c47507b3.js.map",
-    "787.4f334ba4.chunk.js.map": "/react-gh-pages/static/js/787.4f334ba4.chunk.js.map"
+    "main.css": "/palette-generator/static/css/main.be1f76f4.css",
+    "main.js": "/palette-generator/static/js/main.2462e2e0.js",
+    "static/js/787.4f334ba4.chunk.js": "/palette-generator/static/js/787.4f334ba4.chunk.js",
+    "index.html": "/palette-generator/index.html",
+    "main.be1f76f4.css.map": "/palette-generator/static/css/main.be1f76f4.css.map",
+    "main.2462e2e0.js.map": "/palette-generator/static/js/main.2462e2e0.js.map",
+    "787.4f334ba4.chunk.js.map": "/palette-generator/static/js/787.4f334ba4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be1f76f4.css",
-    "static/js/main.c47507b3.js"
+    "static/js/main.2462e2e0.js"
   ]
 }
