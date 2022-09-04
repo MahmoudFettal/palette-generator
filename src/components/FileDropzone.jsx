@@ -62,9 +62,9 @@ function FileDropzone() {
     <div className="grid justify-items-center h-full">
       <div className="grid justify-items-center items-center w-full max-w-6xl p-10">
         <div className="grid justify-items-center gap-5 w-full">
-          <img src={file.preview} alt="preview" className="h-96" />
+          <img src={file.preview} alt="preview" className="max-h-96 w-auto" />
           {palette.length === 5 ? (
-            <div className="grid grid-cols-3 md:grid-cols-5 w-full">
+            <div className="grid grid-cols-2 md:grid-cols-5 w-full">
               {palette.map((color, key) => {
                 return <ColorCard key={key} color={color} />;
               })}
@@ -106,14 +106,14 @@ function FileDropzone() {
     >
       <div className="grid justify-items-center bg-blue-1000 w-full">
         <div className="px-10 py-5 flex justify-between items-center w-full max-w-screen-2xl">
-          <span className="text-2xl text-white font-bold">
+          <span className="sm:text-2xl text-white font-bold">
             Palette <span className="font-light">Generator</span>
           </span>
           {files.length > 0 && (
             <div {...getRootProps({ className: "px-1.5" })}>
               <input {...getInputProps()} />
-              <button className="flex text-sm items-center gap-2.5 text-md opacity-70 hover:opacity-100 text-white">
-                <CgImage className="text-xl" /> Change image
+              <button className="flex text-xs sm:text-sm items-center gap-2.5 text-md opacity-70 hover:opacity-100 text-white">
+                <CgImage className="text-lg sm:text-xl" /> Change image
               </button>
             </div>
           )}
@@ -130,12 +130,12 @@ function FileDropzone() {
           })}
         >
           <input {...getInputProps()} />
-          <div className="grid justify-items-center gap-5 px-10 py-5 max-w-sm">
-            <p className="text-2xl text-center">
+          <div className="grid justify-items-center gap-5 p-5 sm:px-10 max-w-sm">
+            <p className="text-lg sm:text-2xl text-center">
               Generate a color palette from an image
             </p>
             <FiUploadCloud className="text-6xl text-blue-600" />
-            <p className="font-bold text-2xl text-center">
+            <p className="font-bold text-lg sm:text-2xl text-center">
               Drag and drop an image <br /> or{" "}
               <span className="text-blue-600">choose a file</span>
             </p>
